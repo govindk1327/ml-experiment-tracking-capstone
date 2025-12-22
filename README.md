@@ -19,7 +19,7 @@ Before starting, ensure you have:
 ```bash
 # Clone this repository (your instructor will provide the URL)
 git clone <repository-url>
-cd fraud-detection-capstone
+cd capstone-project
 
 # Install dependencies
 pip install -r requirements.txt
