@@ -209,7 +209,7 @@ def main():
     print(f"\nKey Results:")
     print(f"  Test F1 Score: {metrics['test_f1']:.4f}")
     print(f"  Inference Latency: {metrics['inference_latency_ms']:.2f} ms")
-    print(f"\nView results: https://wandb.ai/<your-username>/fraud-detection-capstone")
+    print(f"\nView results: https://wandb.ai/govind1327k-no-organization/fraud-detection-capstone")
 
 if __name__ == "__main__":
     main()

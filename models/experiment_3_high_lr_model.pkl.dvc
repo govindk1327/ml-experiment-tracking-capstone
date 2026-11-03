@@ -1,0 +1,5 @@
+outs:
+- md5: 66a003bdbae484d9c925fbb3b00725d3
+  size: 328081
+  hash: md5
+  path: experiment_3_high_lr_model.pkl
